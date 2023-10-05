@@ -14,7 +14,7 @@ a. Food is infinite, i.e. a philosopher can eat for as long as they want, and
 b. A philosopher can think for as long as they want.  
 c. A philosopher can only eat when they have two chopsticks  
 
-[From](https://dev.to/vunderkind/the-dining-philosophers-problem-or-your-introduction-to-thinking-in-computer-science-8ii)
+[Source](https://dev.to/vunderkind/the-dining-philosophers-problem-or-your-introduction-to-thinking-in-computer-science-8ii)
 
 
 ## Implemented Solution
