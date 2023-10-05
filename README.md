@@ -1,5 +1,5 @@
 # Dining_Philosophers
-![Dining Philosophers](https://www.google.com/search?sca_esv=570966760&q=dining+philosophers+problem&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiZ-8nn-N6BAxXLGFkFHYwZDlUQ0pQJegQIDRAB&biw=1920&bih=923&dpr=1#imgrc=8IiO1sEypbgb1M)
+![Dining Philosophers](https://res.cloudinary.com/practicaldev/image/fetch/s---imrjIOF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/studio-mogwai/image/upload/v1581865192/Untitled_Artwork_5.png)
 ## What is the Dining Philosopher Problem
 Note: Insert Image
 
